@@ -1,4 +1,4 @@
-# Foobar
+# hoonBot
 
 hoonBot is a discord bot utilizing the Discord API and the discord.py library wrapper along with a repl database, hosted on a repl server.
 
